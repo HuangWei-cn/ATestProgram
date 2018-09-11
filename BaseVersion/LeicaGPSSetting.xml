@@ -1,0 +1,36 @@
+<PointParams />
+<Profiles>
+  <1#Áº¼à²âµã>
+    <G1 />
+    <G2 />
+    <G3 />
+    <G4 />
+  </1#Áº¼à²âµã>
+  <¼¦¹ÚÁº¼à²âµã>
+    <G5 />
+    <G6 />
+    <G7 />
+  </¼¦¹ÚÁº¼à²âµã>
+  <ÇàÊ¯Áº¼à²âµã>
+    <G8 />
+    <G9 />
+    <G10 />
+    <G11 />
+  </ÇàÊ¯Áº¼à²âµã>
+  <È«²¿¼à²âµã>
+    <G1 />
+    <G2 />
+    <G3 />
+    <G4 />
+    <G5 />
+    <G6 />
+    <G7 />
+    <G8 />
+    <G9 />
+    <G10 />
+    <G11 />
+  </È«²¿¼à²âµã>
+</Profiles>
+<DBConnString>
+  Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=LeicaGPSData;Data Source=user2\sqlexpress;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=USER2;Use Encryption for Data=False;Tag with column collation when possible=False
+</DBConnString>

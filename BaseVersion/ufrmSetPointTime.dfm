@@ -1,0 +1,84 @@
+object frmSetPointTime: TfrmSetPointTime
+  Left = 293
+  Top = 169
+  BorderStyle = bsDialog
+  Caption = #27979#27425#26631#27880
+  ClientHeight = 339
+  ClientWidth = 382
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poOwnerFormCenter
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  PixelsPerInch = 96
+  TextHeight = 14
+  object Label2: TLabel
+    Left = 4
+    Top = 4
+    Width = 72
+    Height = 14
+    Caption = #30417#27979#28857#20449#24687#65306
+  end
+  object lblDescription: TLabel
+    Left = 4
+    Top = 308
+    Width = 289
+    Height = 33
+    AutoSize = False
+    Caption = #30456#21516#27979#28857#19981#21516'ID'#30340#25968#25454#25171#21253#26102#21051#19981#21516#65292#22240#27492#27979#37327#31934#24230#19981#21516#12290#35831#22312#8220#26085#27979#27425#8221#21015#22635#20837#30417#27979#28857#27599#26085#27979#27425#12290
+    Font.Charset = GB2312_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = #23435#20307
+    Font.Style = []
+    ParentFont = False
+    WordWrap = True
+  end
+  object btnSave: TButton
+    Left = 300
+    Top = 20
+    Width = 75
+    Height = 25
+    Caption = #20445#23384
+    ModalResult = 1
+    TabOrder = 0
+    OnClick = btnSaveClick
+  end
+  object btnCancel: TButton
+    Left = 300
+    Top = 48
+    Width = 75
+    Height = 25
+    Caption = #21462#28040
+    ModalResult = 2
+    TabOrder = 1
+  end
+  object grdPoints: TStringGrid
+    Left = 4
+    Top = 20
+    Width = 289
+    Height = 281
+    ColCount = 4
+    Ctl3D = True
+    DefaultColWidth = 70
+    DefaultRowHeight = 18
+    FixedColor = 13759742
+    FixedCols = 3
+    RowCount = 2
+    Font.Charset = GB2312_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = #23435#20307
+    Font.Style = []
+    GridLineWidth = 0
+    Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goColSizing, goEditing]
+    ParentCtl3D = False
+    ParentFont = False
+    TabOrder = 2
+  end
+end
