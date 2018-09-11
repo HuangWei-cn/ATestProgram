@@ -24,6 +24,9 @@ uses
   Menus, StdCtrls, ComCtrls;
 
 type
+  ///<summary>
+  ///过程线绘制单元，用于绘制各个测点的历时过程线。
+  ///</summary>
   TfraGPSTrendLine = class(TFrame)
     chtPointX: TChart;
     srsX: TLineSeries;
