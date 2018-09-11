@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.140,C:\Users\黄伟\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\Develope\Workspace\MyTools\正则表达式测试工具\ufrmRegExpTool.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.140,C:\Users\黄伟\Documents\Embarcadero\Studio\Projects\Unit2.dfm=E:\Develope\Workspace\MyTools\正则表达式测试工具\ufrmRegExpTool.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.359,C:\Users\黄伟\Documents\Embarcadero\Studio\Projects\Project2.dproj=E:\Develope\Workspace\MyTools\正则表达式测试工具\RegExprTestTool.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.915,=C:\Users\黄伟\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.057,=C:\Users\黄伟\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.937,=C:\Users\黄伟\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
